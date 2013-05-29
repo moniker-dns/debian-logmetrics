@@ -1,3 +1,9 @@
+logmetrics (0.0.1.6.g1f19f38-1) precise; urgency=low
+
+  * Bump version
+
+ -- Kiall Mac Innes <kiall@hp.com>  Wed, 29 May 2013 12:04:49 +0100
+
 logmetrics (0.0.1.5.g49e28cd-1) precise; urgency=low
 
   * Bump version
